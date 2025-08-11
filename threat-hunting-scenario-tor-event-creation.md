@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Sanjay Jung Rayamajhi
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/sanjay-jung-rayamajhi-623422101/
 - **Date**: August 11, 2025
 
 ## Validated By:
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2025`  | `Sanjay Jung Rayamajhi`   
+| 1.0         | Initial draft                  | `September 7, 2025`  | `Sanjay Jung Rayamajhi`   
